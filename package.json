@@ -1,0 +1,22 @@
+{
+  "name": "trillo-project-practice",
+  "version": "1.0.0",
+  "description": "App for Trillo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motasimfuad/Trillo-project-practice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "motasimfuad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motasimfuad/Trillo-project-practice/issues"
+  },
+  "homepage": "https://github.com/motasimfuad/Trillo-project-practice#readme"
+}
